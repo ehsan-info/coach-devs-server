@@ -1,0 +1,359 @@
+[
+    {
+        "_id": "6358c0ead2d2997d076e9c95",
+        "isOpen": true,
+        "category_id": "01",
+        "rating": {
+            "number": 2.5,
+            "badge": "Excellent"
+        },
+        "total_view": 692,
+        "course_name": "Meta Back-End Developer Professional Certificate",
+        "trainer_info": {
+            "name": "Aline Chang",
+            "position": "Lecturer",
+            "publish_date": "2017-03-25 02:40",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$189.04",
+        "thumbnail_url": "https://3cthinkers.com/en/wp-content/uploads/2017/03/html-css-js.jpg",
+        "image_url": "https://miro.medium.com/max/1400/1*2xsLeLNqKwIoGOQlw8O6Ug.png",
+        "details": "Ready to gain new skills and learn the tools developers use to create websites and web applications? This 10-course program, designed by the software engineering experts at  Meta, will prepare you for an entry-level career as a back-end developer. On completion, you’ll get access to the Meta Career Programs Job Board—a job search platform that connects you with 200+ employers who have committed to sourcing talent through Meta’s certificate programs, as well as career support resources to help you with your job search."
+    },
+    {
+        "_id": "6358c0ead6edd4315692de42",
+        "isOpen": false,
+        "category_id": "01",
+        "rating": {
+            "number": 0.7,
+            "badge": "Excellent"
+        },
+        "total_view": 215,
+        "course_name": "Introduction to Web Development",
+        "trainer_info": {
+            "name": "Esperanza Lancaster",
+            "position": "Sr. Lecturer",
+            "publish_date": "2016-08-23 12:30",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$262.02",
+        "thumbnail_url": "https://images.squarespace-cdn.com/content/55240ca5e4b0ef65b027bcb8/1574712682298-FAA8Q7FXALYI9ZTON0KL/Intro+to+Web+Dev-29.png?format=1500w&content-type=image%2Fpng",
+        "image_url": "https://www.relinns.com/wp-content/uploads/2018/07/91blog.png",
+        "details": "This course is designed to start you on a path toward future studies in web development and design, no matter how little experience or technical knowledge you currently have. The web is a very big place, and if you are the typical internet user, you probably visit several websites every day, whether for business, entertainment or education. But have you ever wondered how these websites actually work? How are they built? How do browsers, computers, and mobile devices interact with the web? What skills are necessary to build a website? With almost 1 billion websites now on the internet, the answers to these questions could be your first step toward a better understanding of the internet and developing a new set of internet skills. \nBy the end of this course you’ll be able to describe the structure and functionality of the world wide web, create dynamic web pages using a combination of HTML, CSS, and JavaScript, apply essential programming language concepts when creating HTML forms, select an appropriate web hosting service, and publish your webpages for the world to see. Finally, you’ll be able to develop a working model for creating your own personal or business websites in the future and be fully prepared to take the next step in a more advanced web development or design course or specialization."
+    },
+    {
+        "_id": "6358c0eae1ec95704a6dbbb2",
+        "isOpen": false,
+        "category_id": "01",
+        "rating": {
+            "number": 1.9,
+            "badge": "Excellent"
+        },
+        "total_view": 992,
+        "course_name": "Full-Stack Web Development with React Specialization",
+        "trainer_info": {
+            "name": "Aisha Roach",
+            "position": "Lecturer",
+            "publish_date": "2017-11-01 12:46",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$66.44",
+        "thumbnail_url": "https://i.pinimg.com/originals/be/c3/2f/bec32ffc65cf051af7bf2c71a9af424d.jpg",
+        "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210222183454/How-to-Become-a-Full-Stack-Web-Developer-in-2021.png",
+        "details": "Learn front-end and hybrid mobile development, with server-side support, for implementing a multi-platform solution.\nThe first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript. \nIdeally learners should complete the courses in the specified sequence. "
+    },
+    {
+        "_id": "6358c0ea8d93163c37f5b320",
+        "isOpen": false,
+        "category_id": "02",
+        "rating": {
+            "number": 0.8,
+            "badge": "Excellent"
+        },
+        "total_view": 542,
+        "course_name": "Introduction to User Experience Design",
+        "trainer_info": {
+            "name": "Kennedy Snow",
+            "position": "Lecturer",
+            "publish_date": "2017-04-16 02:08",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$150.23",
+        "thumbnail_url": "https://miro.medium.com/max/720/1*VsLpXiqStulDbYOV6s2dhQ.png",
+        "image_url": "https://miro.medium.com/max/1200/1*1Bw8tqzEYn6LzmQInimbFA.png",
+        "details": "The focus of this course is to introduce the learner to User Experience (UX) Design.\n User Experience design is design that is user centered. The goal is to design artifacts that allow the users to meet their needs in the most effective efficient and satisfying manner. The course introduces the novice to a cycle of discovery and evaluation and a set of techniques that meet the user's needs.\nThis course is geared toward the novice. It is for learners that have heard about 'user experience' or 'user interface' design but don't really know much about these disciplines.\nThe course mantra is that “Design is a systematic and data driven process.” Design is systematic because it is based on a set of techniques and also on a cycle of discovery.\nIn this course the learner is introduced to the four step user interface design cycle. Along the way learners are exposed to a set of techniques to gather information about a) what the user needs b)how to design and model interfaces based on these and then how to evaluate the design to ascertain that the user's goals are met. These techniques are tools that are used in a standardized manner and give us the data we use in our design.\nThis means that anyone (regardless of their current training) that is willing to learn these techniques and follow the proposed cycle can be a UX designer!"
+    },
+    {
+        "_id": "6358c0ea1bc7192c2f743091",
+        "isOpen": false,
+        "category_id": "02",
+        "rating": {
+            "number": 1.6,
+            "badge": "Excellent"
+        },
+        "total_view": 898,
+        "course_name": "UX Design",
+        "trainer_info": {
+            "name": "Tameka Horne",
+            "position": "Lecturer",
+            "publish_date": "2019-05-02 01:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$49.00",
+        "thumbnail_url": "https://www.mindinventory.com/blog/wp-content/uploads/2021/11/mobile-ux-design-best-practices.png",
+        "image_url": "https://distantjob.com/wp-content/uploads/2021/03/ux-ui-developer-vs-ui-uk-designer.png",
+        "details": "Solve real-world problems using creative user experience research and design techniques in this interactive program from the University of Minnesota, ranked in the Top 10 Best U.S. Public Research Institutions."
+    },
+    {
+        "_id": "6358c0ea86cd5e59e40d06c4",
+        "isOpen": false,
+        "category_id": "03",
+        "rating": {
+            "number": 3,
+            "badge": "Excellent"
+        },
+        "total_view": 232,
+        "course_name": "Innovation Through Design: Think, Make, Break, Repeat",
+        "trainer_info": {
+            "name": "Sophia Medina",
+            "position": "Lecturer",
+            "publish_date": "2015-10-26 01:47",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$171.05",
+        "thumbnail_url": "http://media.execunet.com/m/abstract-head-with-up-arrows-emerging-van-Heerden.jpg",
+        "image_url": "https://baylorlariat.com/wp-content/uploads/2020/09/Untitled_Artwork-7-1.png",
+        "details": "The evolution of design has seen it become a discipline no longer limited to the concerns of a singular, specific domain and develop to become a pathway for solving complex, nonlinear problems. Design is becoming a capability-enhancing skill, equipping people with the ability to deal with uncertainty, complexity and failure. \n In this course, we demonstrate how you can use design as a way of thinking to provide strategic and innovative advantage within your profession. Suitable for anyone who is curious about design and translating the processes and tools of design thinking into innovative opportunities, over 5 weeks we explore, apply and practice the design process: think, make, break and repeat."
+    },
+    {
+        "_id": "6358c0ea44520b336813c238",
+        "isOpen": false,
+        "category_id": "03",
+        "rating": {
+            "number": 2.4,
+            "badge": "Excellent"
+        },
+        "total_view": 536,
+        "course_name": "Innovation Through Design: Think, Make, Break, Repeat",
+        "trainer_info": {
+            "name": "Woodard Mccarty",
+            "position": "Lecturer",
+            "publish_date": "2018-09-20 12:05",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$227.00",
+        "thumbnail_url": "https://5.imimg.com/data5/SR/HC/MG/SELLER-12898598/local-search-engine-optimization-service-500x500.jpg",
+        "image_url": "https://cdnwp.mobidea.com/academy/wp-content/uploads/2018/04/best-seo-training-courses-760x428-1.png",
+        "details": "This Specialization will teach you to optimize website content for the best possible search engine ranking. You'll learn the theory behind Google search and other search engine algorithms; you'll also build practical, real-world skills that you can apply to a career in digital marketing or online content development, including on-page and off-page optimization, optimizing for local and international audiences, conducting search-focused website audits, and aligning SEO with overall business strategies. Each course is intended to build on the skills from the previous course, thus we recommend you take the courses in the order they are listed. The Specialization culminates in a hands-on Capstone Project, in which you will apply your skills to a comprehensive SEO consulting task. "
+    },
+    {
+        "_id": "6358c0eac16c44b5312dd913",
+        "isOpen": false,
+        "category_id": "04",
+        "rating": {
+            "number": 1.7,
+            "badge": "Excellent"
+        },
+        "total_view": 284,
+        "course_name": "Google SEO Capstone Project",
+        "trainer_info": {
+            "name": "Mariana Frazier",
+            "position": "Lecturer",
+            "publish_date": "2016-11-08 06:56",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$23.97",
+        "thumbnail_url": "https://www.fita.in/wp-content/uploads/2022/09/seo-training.webp",
+        "image_url": "https://www.reliablesoft.net/video-thumbnails/best-seo-certifications-thumbnail.png",
+        "details": "SEO is a dynamic and growing career field that demands knowledge and skills in a variety of website optimization strategies and tactics in order to be successful. This course is designed to provide you with a solid foundation in SEO including the different elements comprising a website optimization client report, and arm you with skills you need to develop a tactical approach to SEO. \nWhether you have successfully completed the other courses in the Search Engine Optimization specialization or are taking just this course, this project is your chance to apply the knowledge you’ve acquired to practice important SEO tactics and optimize a site of your choice from the ground-up. You will identify optimization opportunities on a site and discover valuable tips for pitching your plan and managing your relationship with your client, you will then develop a customized SEO solution for the website you chose, and go through each of the major steps needed to execute your strategy including keyword research, competitive analysis, improving the site’s meta-data and on-page elements. Along the way, you will receive feedback through the peer review process. This community of fellow learners will provide additional input to help you refine your approach to SEO and present your findings to clients and management."
+    },
+    {
+        "_id": "6358c0ea990f579d84a51803",
+        "isOpen": false,
+        "category_id": "04",
+        "rating": {
+            "number": 0.4,
+            "badge": "Excellent"
+        },
+        "total_view": 452,
+        "course_name": "Introduction to Data Science Specialization",
+        "trainer_info": {
+            "name": "Wallace Logan",
+            "position": "Lecturer",
+            "publish_date": "2014-02-21 02:28",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$252.46",
+        "thumbnail_url": "https://inlab.fib.upc.edu/sites/default/files/field/image/data_scientist.jpg",
+        "image_url": "https://www.dataquest.io/wp-content/uploads/2019/05/what-is-data-science-1.jpg",
+        "details": "Interested in learning more about data science, but don’t know where to start? This 4-course Specialization from IBM will provide you with the key foundational skills any data scientist needs to prepare you for a career in data science or further advanced learning in the field.\nThis Specialization will introduce you to what data science is and what data scientists do. You’ll discover the applicability of data science across fields, and learn how data analysis can help you make data driven decisions. You’ll find that you can kickstart your career path in the field without prior knowledge of computer science or programming languages: this Specialization will give you the foundation you need for more advanced learning to support your career goals."
+    },
+    {
+        "_id": "6358c0ea93355cbe31434f6f",
+        "isOpen": true,
+        "category_id": "03",
+        "rating": {
+            "number": 1.2,
+            "badge": "Excellent"
+        },
+        "total_view": 442,
+        "course_name": "Data Science Fundamentals with Python and SQL Specialization",
+        "trainer_info": {
+            "name": "Irene Mclean",
+            "position": "Assistant Lecturer",
+            "publish_date": "2022-06-25 08:46",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$204.04",
+        "thumbnail_url": "https://www.psdly.com/wp-content/uploads/2021/04/Coursera-Data-Science-Fundamentals-with-Python-and-SQL-Specialization.jpg",
+        "image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~data-science-fundamentals-python-sql/XDP~SPECIALIZATION!~data-science-fundamentals-python-sql.jpeg",
+        "details": "Data Science is one of the hottest professions of the decade, and the demand for data scientists who can analyze data and communicate results to inform data driven decisions has never been greater. This Specialization from IBM will help anyone interested in pursuing a career in data science by teaching them fundamental skills to get started in this in-demand field.\nThe specialization consists of 5 self-paced online courses that will provide you with the foundational skills required for Data Science, including open source tools and libraries, Python, Statistical Analysis, SQL, and relational databases. You’ll learn these data science pre-requisites through hands-on practice using real data science tools and real-world data sets."
+    },
+    {
+        "_id": "6358c0eafc8036126a24855c",
+        "isOpen": false,
+        "category_id": "05",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 430,
+        "course_name": "Google Digital Marketing & E-commerce Professional Certificate",
+        "trainer_info": {
+            "name": "Weiss Bright",
+            "position": "Trainer",
+            "publish_date": "2019-07-17 10:03",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$179.49",
+        "thumbnail_url": "https://www.reliablesoft.net/wp-content/uploads/2022/04/google-digital-marketing-ecommerce-professional-certificate.png",
+        "image_url": "https://www.reliablesoft.net/wp-content/uploads/2022/04/google-digital-marketing-ecommerce-professional-certificate.png",
+        "details": "Throughout this program, you will gain in-demand skills that prepare you for an entry-level job and learn how to use tools and platforms like Canva, Constant Contact, Google Ads, Google Analytics, Hootsuite, HubSpot, Mailchimp, Shopify, and Twitter. You will learn from subject-matter experts at Google and have a chance to build your own portfolio with projects like customer personas and social media calendars to show to potential employers. \n75% of Google Career Certificate graduates in the US report seeing a positive impact on their career within six months²"
+    },
+    {
+        "_id": "6358c0ea36407126542a00e2",
+        "isOpen": false,
+        "category_id": "05",
+        "rating": {
+            "number": 4,
+            "badge": "Excellent"
+        },
+        "total_view": 643,
+        "course_name": "Digital Technologies and the Future of Manufacturing Specialization",
+        "trainer_info": {
+            "name": "Shannon Lynn",
+            "position": "Lecturer",
+            "publish_date": "2016-06-14 07:58",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$213.13",
+        "thumbnail_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~foundations-of-digital-marketing-and-e-commerce/XDP~COURSE!~foundations-of-digital-marketing-and-e-commerce.jpeg",
+        "image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~foundations-of-digital-marketing-and-e-commerce/XDP~COURSE!~foundations-of-digital-marketing-and-e-commerce.jpeg",
+        "details": "Throughout this program, you will gain in-demand skills that prepare you for an entry-level job and learn how to use tools and platforms like Canva, Constant Contact, Google Ads, Google Analytics, Hootsuite, HubSpot, Mailchimp, Shopify, and Twitter. You will learn from subject-matter experts at Google and have a chance to build your own portfolio with projects like customer personas and social media calendars to show to potential employers. \n75% of Google Career Certificate graduates in the US report seeing a positive impact on their career within six months²"
+    },
+    {
+        "_id": "6358c0eab536e51f5a42c881",
+        "isOpen": true,
+        "category_id": "05",
+        "rating": {
+            "number": 0.5,
+            "badge": "Excellent"
+        },
+        "total_view": 713,
+        "course_name": "Foundations of Digital Marketing and E-commerce",
+        "trainer_info": {
+            "name": "Milagros Hardin",
+            "position": "Lecturer",
+            "publish_date": "2018-10-14 02:31",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$207.28",
+        "thumbnail_url": "https://www.reliablesoft.net/wp-content/uploads/2022/04/google-digital-marketing-ecommerce-professional-certificate.png",
+        "image_url": "https://www.reliablesoft.net/wp-content/uploads/2022/04/google-digital-marketing-ecommerce-professional-certificate.png",
+        "details": "Throughout this program, you will gain in-demand skills that prepare you for an entry-level job and learn how to use tools and platforms like Canva, Constant Contact, Google Ads, Google Analytics, Hootsuite, HubSpot, Mailchimp, Shopify, and Twitter. You will learn from subject-matter experts at Google and have a chance to build your own portfolio with projects like customer personas and social media calendars to show to potential employers. \n75% of Google Career Certificate graduates in the US report seeing a positive impact on their career within six months²"
+    },
+    {
+        "_id": "6358c0eae0c54c3689156458",
+        "isOpen": true,
+        "category_id": "01",
+        "rating": {
+            "number": 1.2,
+            "badge": "Excellent"
+        },
+        "total_view": 616,
+        "course_name": "Introduction to Front-End Development",
+        "trainer_info": {
+            "name": "Finley Chase",
+            "position": "Lecturer",
+            "publish_date": "2019-02-22 11:14",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$195.90",
+        "thumbnail_url": "https://images.squarespace-cdn.com/content/55240ca5e4b0ef65b027bcb8/1574712682298-FAA8Q7FXALYI9ZTON0KL/Intro+to+Web+Dev-29.png?format=1500w&content-type=image%2Fpng",
+        "image_url": "https://www.relinns.com/wp-content/uploads/2018/07/91blog.png",
+        "details": "Learn front-end and hybrid mobile development, with server-side support, for implementing a multi-platform solution.\nThe first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript. \nIdeally learners should complete the courses in the specified sequence."
+    },
+    {
+        "_id": "6358c0ea754edf3221680367",
+        "isOpen": false,
+        "category_id": "02",
+        "rating": {
+            "number": 1.9,
+            "badge": "Excellent"
+        },
+        "total_view": 245,
+        "course_name": "Post Graduate Certificate in UX Design and HCI",
+        "trainer_info": {
+            "name": "Witt Cooley",
+            "position": "Sr. Lecturer",
+            "publish_date": "2022-07-29 08:48",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$194.76",
+        "thumbnail_url": "https://www.mindinventory.com/blog/wp-content/uploads/2021/11/mobile-ux-design-best-practices.png",
+        "image_url": "https://distantjob.com/wp-content/uploads/2021/03/ux-ui-developer-vs-ui-uk-designer.png",
+        "details": "Solve real-world problems using creative user experience research and design techniques in this interactive program from the University of Minnesota, ranked in the Top 10 Best U.S. Public Research Institutions."
+    },
+    {
+        "_id": "6358c0eafda00bc9c6325f7b",
+        "isOpen": false,
+        "category_id": "06",
+        "rating": {
+            "number": 3,
+            "badge": "Excellent"
+        },
+        "total_view": 508,
+        "course_name": "SketchUp: how to start modelling simple 3D objects",
+        "trainer_info": {
+            "name": "Kim Baxter",
+            "position": "Lecturer",
+            "publish_date": "2022-05-12 05:43",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$204.11",
+        "thumbnail_url": "https://i.materialise.com/blog/wp-content/uploads/2016/08/sketchup-featured-image.jpg",
+        "image_url": "https://i.materialise.com/blog/wp-content/uploads/2016/08/sketchup-featured-image.jpg",
+        "details": "By the end of this project, you will learn how to use Sketch Up for web to model simple 3D objects.\n3D modeling is largely used in the design fields, to represent interiors, products, games.\nIn 3D computer graphics, 3D modeling is meant as the process of developing a mathematical representation of any surface of an object in three dimensions via modeling software. The product of this process is called a 3D model. This model can also be displayed as a two-dimensional image through a process called 3D rendering or used in computer simulations. Nowadays thanks to the use of 3D printers modelers are able to physically create the 3D model.\nSketchUp for Web is a free version of SketchUp that runs in a web browser. It shows a simple interface where anyone can simply draw and create 3D models. This makes 3D modeling accessible and easy to use to anyone interested in exploring this field."
+    },
+    {
+        "_id": "6358c0ea3f9624a92d35266e",
+        "isOpen": true,
+        "category_id": "06",
+        "rating": {
+            "number": 2.9,
+            "badge": "Excellent"
+        },
+        "total_view": 764,
+        "course_name": "Arte 3D y animación en videojuegos",
+        "trainer_info": {
+            "name": "Rollins Abbott",
+            "position": "Lecturer",
+            "publish_date": "2014-01-23 09:47",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "price": "$28.33",
+        "thumbnail_url": "https://www.arts.ac.uk/__data/assets/image/0021/230187/image5.jpeg",
+        "image_url": "https://www.arts.ac.uk/__data/assets/image/0021/230187/image5.jpeg",
+        "details": "Fashion as Design focuses on a selection of more than 70 garments and accessories from around the world, ranging from kente cloth to jeans to 3D-printed dresses. Through these garments, we’re going to look closely at what we wear, why we wear it, how it’s made, and what it means. You’ll hear directly from a range of designers, makers, historians, and others working with clothing every day—and, in some cases, reinventing it for the future. Studio visits, interviews, and other resources introduce the history and development of each garment and their changing uses, meanings, and impact over time."
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Web Developer"
+    },
+    {
+        "id": "02",
+        "name": "UX/UI Designer"
+    },
+    {
+        "id": "03",
+        "name": "Data Scientist"
+    },
+    {
+        "id": "04",
+        "name": "SEO Specialist"
+    },
+    {
+        "id": "05",
+        "name": "Internet Marketer"
+    },
+    {
+        "id": "06",
+        "name": "3D Artist"
+    },
+    {
+        "id": "07",
+        "name": "All News"
+    }
+]
