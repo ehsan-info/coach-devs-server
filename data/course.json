@@ -4,7 +4,7 @@
         "isOpen": true,
         "category_id": "01",
         "rating": {
-            "number": 2.5,
+            "number": 3.5,
             "badge": "Excellent"
         },
         "total_view": 692,
@@ -25,7 +25,7 @@
         "isOpen": false,
         "category_id": "01",
         "rating": {
-            "number": 0.7,
+            "number": 4.7,
             "badge": "Excellent"
         },
         "total_view": 215,
@@ -46,7 +46,7 @@
         "isOpen": false,
         "category_id": "01",
         "rating": {
-            "number": 1.9,
+            "number": 3.9,
             "badge": "Excellent"
         },
         "total_view": 992,
@@ -130,7 +130,7 @@
         "isOpen": false,
         "category_id": "03",
         "rating": {
-            "number": 2.4,
+            "number": 2.5,
             "badge": "Excellent"
         },
         "total_view": 536,
