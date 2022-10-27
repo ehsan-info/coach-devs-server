@@ -4,6 +4,7 @@ const cors = require('cors');
 const port = process.env.PORT || 5000;
 
 app.use(cors());
+
 const coursesCat = require('./data/course_cat.json');
 const course = require('./data/course.json');
 app.get('/', (req, res) => {
@@ -36,6 +37,7 @@ app.get('/checkout/:id', (req, res) => {
 app.get('/course', (req, res) => {
     res.send(course);
 })
+
 app.listen(port, () => {
     console.log(`page run on port ${port}`)
 })
